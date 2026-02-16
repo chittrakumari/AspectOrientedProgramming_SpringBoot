@@ -1,0 +1,5 @@
+com/telusko/springdatarestdemo/model/JobPost.class
+com/telusko/springdatarestdemo/aop/LoggingAspect.class
+com/telusko/springdatarestdemo/SpringDataRestDemoApplication.class
+com/telusko/springdatarestdemo/repo/JobRepo.class
+com/telusko/springdatarestdemo/service/JobService.class
